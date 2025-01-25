@@ -1,0 +1,15 @@
+ .float-left{
+    float: left;
+ }
+ .float-right{
+    float: right;
+ }
+ .clear{
+    clear:both;
+ }
+ #border{
+   border-width: 9px;
+   border-color: orangered;
+   border-style:dotted;
+   
+ }
